@@ -1,0 +1,72 @@
+[
+  {
+    "id": 15,
+    "name": "Mishary Rashid Alafasy",
+    "subfolder": "Alafasy_128kbps",
+    "bitrate": "128kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "One of the most popular and widely recognized Quran reciters worldwide"
+  },
+  {
+    "id": 8,
+    "name": "Abdurrahmaan As-Sudais",
+    "subfolder": "Abdurrahmaan_As-Sudais_192kbps",
+    "bitrate": "192kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Imam of Masjid al-Haram, Makkah"
+  },
+  {
+    "id": 2,
+    "name": "Abdul Basit Murattal",
+    "subfolder": "Abdul_Basit_Murattal_192kbps",
+    "bitrate": "192kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Legendary Egyptian reciter, murattal style for daily listening"
+  },
+  {
+    "id": 16,
+    "name": "Saad Al-Ghamdi",
+    "subfolder": "Ghamadi_40kbps",
+    "bitrate": "40kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Popular Saudi reciter. Note: only 40kbps available on EveryAyah; consider sourcing higher bitrate"
+  },
+  {
+    "id": 29,
+    "name": "Maher Al-Muaiqly",
+    "subfolder": "MaherAlMuaiqly128kbps",
+    "bitrate": "128kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Imam of Masjid al-Haram, Makkah"
+  },
+  {
+    "id": 20,
+    "name": "Mahmoud Khalil Al-Husary",
+    "subfolder": "Husary_128kbps",
+    "bitrate": "128kbps",
+    "style": "murattal",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Clear, precise recitation ideal for learning tajweed and memorization"
+  },
+  {
+    "id": 65,
+    "name": "Mahmoud Khalil Al-Husary (Muallim)",
+    "subfolder": "Husary_Muallim_128kbps",
+    "bitrate": "128kbps",
+    "style": "muallim",
+    "language": "arabic",
+    "qiraat": "hafs",
+    "notes": "Teaching recitation with pauses for student repetition; essential for Hifz and revision"
+  }
+]
